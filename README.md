@@ -20,7 +20,7 @@
 
 ### 📫 How to Reach Me
 - 📧 Email: philliprossouw9609@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/philliprossouwb)
+- 💼 [LinkedIn](https://www.linkedin.com/in/phillip-rossouw-botha/)
 
 ### 🔥 Fun Facts About Me
 - I went from bartender to developer after the pandemic — and I’m thriving!
