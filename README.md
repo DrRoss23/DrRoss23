@@ -6,11 +6,12 @@
 ### 🧠 What I’m Currently Learning
 - Frontend: React, Tailwind CSS
 - Backend: Node.js, Express
-- Databases: MongoDB, PostgreSQL
 - Dev Tools: Git, GitHub
 
 ### 🚀 Projects I'm Proud Of
-- 📱 [PetProfile](https://github.com/DrRoss23/PetProfile) – An Instagram-style pet profile page (HTML & CSS).
+- 📱 [FirstCommit](https://github.com/DrRoss23/Module_02_PHIBOT25159_PTO2503_B_Phillip-Botha_SDF01_Chad-Bosch) – My First GitHub Project
+- 📱 [PetProfile](https://github.com/DrRoss23/Module_06_PHIBOT25159_PTO2503_B_Phillip-Botha_SDF03_Chad-Bosch) – An Instagram-style pet profile page (HTML & CSS).
+
 
 ### 🌱 I’m Looking to Collaborate On
 - Beginner-friendly open source projects
